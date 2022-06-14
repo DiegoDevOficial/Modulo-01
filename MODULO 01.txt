@@ -1,0 +1,31 @@
+01-Falando Sobre o Curso
+02-Oq Vamos Aprender
+03-Dicas 
+04-É pra min
+05-Dicas de bibiografia
+06-Como a Internet Chega ate as Casas
+07-Como a interhet funciona (Capitulo 02)
+08-Dominio
+09-A Diferença entre HTML, CSS, JS, codigo base
+10-Front-end, Bqck-end & Full-stack, O que faz
+11-Instalando Todos as Ferramentas
+12-Seu Primeiro codigo ex01
+13-Parágrafos & Quebras de Linhas ex02
+14-Simbolus & Emojis ex03
+15-Direitos Autorais
+16-Formatos de imagem para Web PNG,GPJ,GIF
+17-O Tamanho da imagem importa para o Site?
+18-A Teg img em HTNL5 ex03
+19-Como mudar o Favicom
+20-Hieraquia de Titulos
+21-Semântica
+22-Negrito & italico, Abteviatura
+23-Formatação adicionais
+24-Citações & codigos
+25-Listas ul ou ol
+26-Listas Mistas & de Definição
+27-Link para Dawload
+28-Desafio abbr
+29-img dinâmicas
+30-imagem que se Adapita sozinhas
+31-

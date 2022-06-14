@@ -1,11 +1,18 @@
 @charset::after
 
-	*{margin:0;}
-	header,footer
-		 {background-color:#007;color:#fff; text-align:center;padding:6px;}
-	main {background-color: #ddf;
-	margin:0 1.5%;
-		padding:6px 1%;
-		box-shadow: 0px 0px 2px 1px rgb(0,0,3,0.5);}
-	div{border:solid 1px; margin:5px 12%; text-align:center;}
+	* {margin:0;}
+body
+	{background-color: black;}
+header,footer
+	 {background-color:#007;color:#fff; text-align:center;padding:6px;}
+
+main 
+	{background-color: #ddf;
+	max-width: 80%;
+	margin: auto;
+	padding: 6px 2%;
+	box-shadow: 0px 0px 2px 1px rgb(255,255,255,0.5);}
+
+div
+	{border:solid 1px; margin:5px 12%; text-align:center;}
 	
